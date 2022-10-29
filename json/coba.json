@@ -1,0 +1,46 @@
+[
+	{
+		"nama" : "Fajar Ramadhan",
+		"umur" : 20,
+		"nim"  : "19132301",
+		"lulus" : false,
+		"hobi"	: [
+			"Coding",
+			"Gaming",
+			"Singing"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Heri Susanto M.Kom",
+			"pembimbing2" : "Ninanesia Rusdiana M.Kom"
+		}
+	},
+	{
+		"nama" : "Lucky Safira Zulukiah",
+		"umur" : 20,
+		"nim"  : "19132302",
+		"lulus" : false,
+		"hobi"	: [
+			"Menggambar",
+			"Rebahan",
+			"Coding"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Jamal Tanpade M.Kom",
+			"pembimbing2" : "Dwi Yanto M.Kom"
+		}
+	},
+	{
+		"nama" : "Alddo Rengga",
+		"umur" : 21,
+		"nim"  : "19132303",
+		"lulus" : false,
+		"hobi"	: [
+			"Gaming",
+			"Coding"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Nur Edi Sabiliat M.Kom",
+			"pembimbing2" : "Ir.Sisbiyanto M.Kom"
+		}
+	}
+]
